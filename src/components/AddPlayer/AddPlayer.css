@@ -1,0 +1,29 @@
+.AddPlayer {
+  display: flex;
+  justify-content: flex-end;
+  box-sizing: border-box;
+
+  border: 1px solid #6c5ce7;
+  border-radius: 5px;
+  padding: 10px;
+  background: #dfe6e9;
+}
+
+.AddPlayer__input {
+  text-align: center;
+  width: 40%;
+  border: 1px solid #0984e3;
+  border-radius: 3px;
+  height: 25px;
+  padding: 0 10px;
+  margin-right: 15px;
+}
+
+.AddPlayer__submit {
+  width: 15%;
+  text-align: center;
+  background: #74b9ff;
+  cursor: pointer;
+  border: 1px solid #0984e3;
+  border-radius: 3px;
+}
